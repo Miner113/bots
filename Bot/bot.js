@@ -4,7 +4,7 @@ const bot = new Telegraf(TOKEN);
 const express = require("express");
 const app = express()
 app.use(express.json())
-const web_link = "https://tgame-chi.vercel.app";
+const web_link = "https://bots-steel-sigma.vercel.app/";
 const community_link = "https://t.me/Geto_spirit_Community";
 
 
